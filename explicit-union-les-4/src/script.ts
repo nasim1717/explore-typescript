@@ -16,6 +16,7 @@ let a: (string | number)[] = [];
 // --------------------------------
 
 // let c: object;
+// c = [1, 2, 3 ,4];
 // c = {}
 let c: {
     name: string,
